@@ -15,3 +15,4 @@ The objective of this project is to analyze sales data and create an interactive
 -	Which product category contributes the most revenue? 
 -	How do profit vary month-wise and year-wise? 
 
+Dashboard Interaction <a href="https://github.com/janvipatil2601-oss/Data-Analysis-Dashboard/blob/main/sale%20dashboard.pbix">View Dashboard</a>
