@@ -46,3 +46,6 @@ Step 6: Insight Generation
  •	Identify business opportunities. 
  •	Find areas needing improvement. 
  •	Provide recommendations for sales growth.
+
+ ## Dashboard
+ ![Screeshort(495)](https://github.com/janvipatil2601-oss/Data-Analysis-Dashboard/blob/main/Screenshot%202026-06-13%20165936.png)
