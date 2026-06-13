@@ -19,30 +19,30 @@ The objective of this project is to analyze sales data and create an interactive
 -<a href="https://github.com/janvipatil2601-oss/Data-Analysis-Dashboard/blob/main/sale%20dashboard.pbix">View Dashboard</a>
 
 ## Process
-Step 1: Data Collection
+- Step 1: Data Collection
  •	Import sales dataset into Power BI/Tableau. 
  •	Review dataset structure and business requirements. 
-Step 2: Data Cleaning
+-Step 2: Data Cleaning
  •	Remove duplicate records. 
  •	Handle missing values. 
  •	Correct data types. 
  •	Standardize column names. 
-Step 3: Data Transformation
+-Step 3: Data Transformation
  •	Create Date Table. 
  •	Extract Year, Month. 
-Step 4: Data Analysis
+-Step 4: Data Analysis
  •	Analyze sales trends over time. 
  •	Compare regional performance. 
  •	Identify top and bottom products. 
  •	Analyze category-wise sales. 
  •	Measure profitability across segments. 
-Step 5: Dashboard Development
+-Step 5: Dashboard Development
 Create visualizations such as:
  •	KPI Cards (Sales, Profit, Orders) 
  •	Bar Charts 
  •	Line Charts 
  •	Pie/Donut Charts 
-Step 6: Insight Generation
+-Step 6: Insight Generation
  •	Identify business opportunities. 
  •	Find areas needing improvement. 
  •	Provide recommendations for sales growth.
