@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Power Bi, creating a dashboards to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization
+# Super Store Sales Data analysis (Interactive dashboard creation using Power Bi)
+## Project Objective
+The objective of this project is to analyze sales data and create an interactive dashboard that helps businesses monitor sales performance, identify profitable products, compare regional sales, and support data-driven decision-making.
