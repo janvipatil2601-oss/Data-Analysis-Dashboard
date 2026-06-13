@@ -52,37 +52,37 @@ Step 6: Insight Generation
 
  ## Project Insight
 1. Overall Business Performance
- •	The company generated ₹1.57M in total sales and ₹175.26K in total profit. 
- •	The profit is positive, indicating healthy business performance and effective cost management. 
+ -	The company generated ₹1.57M in total sales and ₹175.26K in total profit. 
+ - The profit is positive, indicating healthy business performance and effective cost management. 
 2. Category-wise Sales Analysis
- •	Office Supplies is the highest revenue-generating category with ₹644K sales (41.11%). 
- •	Technology contributes ₹471K (30.05%) of total sales. 
- •	Furniture contributes ₹452K (28.84%), making it the lowest-performing category among the three. 
+ -	Office Supplies is the highest revenue-generating category with ₹644K sales (41.11%). 
+ -	Technology contributes ₹471K (30.05%) of total sales. 
+ -	Furniture contributes ₹452K (28.84%), making it the lowest-performing category among the three. 
 3. Top Performing Products
- •	The best-selling product is Zebra GK420t Direct Thermal /Thermal Transfer Printer with sales of approximately ₹704K. 
- •	The top five products contribute significantly to overall revenue, indicating that a few products drive a large portion of sales. 
+ -	The best-selling product is Zebra GK420t Direct Thermal /Thermal Transfer Printer with sales of approximately ₹704K. 
+ -	The top five products contribute significantly to overall revenue, indicating that a few products drive a large portion of sales. 
 4. Low Performing Products
- •	Several products have sales below ₹200K, indicating weak market demand. 
- •	These products may require promotional strategies, price adjustments, or inventory review. 
+ -	Several products have sales below ₹200K, indicating weak market demand. 
+ -	These products may require promotional strategies, price adjustments, or inventory review. 
 5. Regional Performance
- •	West Region is the top-performing region with ₹522K sales. 
- •	East Region follows with ₹450K sales. 
- •	South Region records the lowest sales at ₹252K, indicating potential growth opportunities. 
+ -	West Region is the top-performing region with ₹522K sales. 
+ -	East Region follows with ₹450K sales. 
+ -	South Region records the lowest sales at ₹252K, indicating potential growth opportunities. 
 6. Monthly Sales Trend
- •	Sales in 2020 are consistently higher than in 2019 across most months. 
- •	A strong increase is observed in the last quarter of the year, showing seasonal demand and business growth. 
+ -	Sales in 2020 are consistently higher than in 2019 across most months. 
+ -	A strong increase is observed in the last quarter of the year, showing seasonal demand and business growth. 
 7. Monthly Profit Trend
- •	Profit shows an upward trend toward the end of the year. 
- •	The highest profits are generated during the final months, suggesting that year-end sales campaigns were effective. 
+ -	Profit shows an upward trend toward the end of the year. 
+ -	The highest profits are generated during the final months, suggesting that year-end sales campaigns were effective. 
 8. Growth Comparison (2019 vs 2020)
- •	Both sales and profit performance improved in 2020 compared to 2019. 
- •	The business experienced sustained growth throughout the year. 
+ -	Both sales and profit performance improved in 2020 compared to 2019. 
+ -	The business experienced sustained growth throughout the year. 
 9. Business Opportunity
- •	Since the South region and Furniture category contribute the least revenue, targeted marketing campaigns can help improve performance. 
- •	Expanding successful strategies used in the West region could increase sales in other regions. 
+ -	Since the South region and Furniture category contribute the least revenue, targeted marketing campaigns can help improve performance. 
+ -	Expanding successful strategies used in the West region could increase sales in other regions. 
 10. Product Strategy
- •	Focus on maintaining inventory and marketing efforts for top-performing products. 
- •	Review low-performing products to reduce inventory costs and improve profitability. 
+ -	Focus on maintaining inventory and marketing efforts for top-performing products. 
+ -	Review low-performing products to reduce inventory costs and improve profitability. 
 
 ## Final Conclusion
 The dashboard shows strong overall business performance with ₹1.57M sales and ₹175.26K profit. Office Supplies and the West Region are the major contributors to revenue. Sales and profits have grown significantly in 2020 compared to 2019, especially during the final quarter. To achieve further growth, the company should focus on improving sales in the South Region, boosting the Furniture category, and optimizing low-performing products while continuing to invest in high-performing products and regions.
