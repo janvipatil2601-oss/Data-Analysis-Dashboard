@@ -15,9 +15,6 @@ The objective of this project is to analyze sales data and create an interactive
 -	Which product category contributes the most revenue? 
 -	How do profit vary month-wise and year-wise? 
 
-## Dashboard Interaction 
--<a href="https://github.com/janvipatil2601-oss/Data-Analysis-Dashboard/blob/main/sale%20dashboard.pbix">View Dashboard</a>
-
 ## Process
 ### Step 1: Data Collection
  -	Import sales dataset into Power BI/Tableau. 
@@ -46,6 +43,9 @@ Create visualizations such as:
  -	Identify business opportunities. 
  -	Find areas needing improvement. 
  -	Provide recommendations for sales growth.
+
+## Dashboard Interaction 
+-<a href="https://github.com/janvipatil2601-oss/Data-Analysis-Dashboard/blob/main/sale%20dashboard.pbix">View Dashboard</a>
 
  ## Dashboard
  ![Screeshort(495)](https://github.com/janvipatil2601-oss/Data-Analysis-Dashboard/blob/main/Screenshot%202026-06-13%20165936.png)
